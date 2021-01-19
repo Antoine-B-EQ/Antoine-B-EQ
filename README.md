@@ -1,4 +1,4 @@
-**Hello!** :sparkler:
+**Hey GitHub gang!** :sparkler:
 
 I'm a manager at Hilton with a passion for computer science.
 
@@ -23,3 +23,12 @@ I'm a manager at Hilton with a passion for computer science.
 * English :uk:
 * Thai :thailand:
 * Mandarin Chinese :cn:
+
+
+4. Where to find me: :envelope_with_arrow:
+
+> [Linkedin](https://fr.linkedin.com/in/antoine-bouesnard-a35a1511b)
+> 283698@protonmail.ch
+> [Steam](https://steamcommunity.com/id/Eclipse_Eklipse/)
+
+5. Stay safe!
