@@ -10,11 +10,11 @@ I'm a manager at Hilton with a passion for computer science.
 
 2. Where i've worked and traveled: :flight_departure:
 
-![cambodia](https://img.shields.io/badge/Cambodia-9cf):cambodia:    ![china](https://img.shields.io/badge/China-9cf):cn:    ![costa_rica](https://img.shields.io/badge/CostaRica-9cf):costa_rica:    ![france](https://img.shields.io/badge/France-9cf):fr:    ![japan](https://img.shields.io/badge/Japan-9cf):jp:
+![cambodia](https://img.shields.io/badge/Cambodia-blue):cambodia:    ![china](https://img.shields.io/badge/China-blue):cn:    ![costa_rica](https://img.shields.io/badge/CostaRica-blue):costa_rica:    ![france](https://img.shields.io/badge/France-blue):fr:    ![japan](https://img.shields.io/badge/Japan-blue):jp:
 
-![laos](https://img.shields.io/badge/-Laos-9cf):laos:   ![malaysia](https://img.shields.io/badge/Malaysia-9cf):malaysia:   ![myanmar](https://img.shields.io/badge/Myanmar-9cf):myanmar:   ![russia](https://img.shields.io/badge/Russia-9cf):ru:   ![singapore](https://img.shields.io/badge/Singapore-9cf):singapore: 
+![laos](https://img.shields.io/badge/-Laos-blue):laos:   ![malaysia](https://img.shields.io/badge/Malaysia-blue):malaysia:   ![myanmar](https://img.shields.io/badge/Myanmar-blue):myanmar:   ![russia](https://img.shields.io/badge/Russia-blue):ru:   ![singapore](https://img.shields.io/badge/Singapore-blue):singapore: 
 
-![south_korea](https://img.shields.io/badge/SouthKorea-9cf):kr:   ![thailand](https://img.shields.io/badge/Thailand-9cf):thailand:   ![united_kingdom](https://img.shields.io/badge/UnitedKingdom-9cf):uk:   ![usa](https://img.shields.io/badge/USA-9cf):us:   ![vietnam](https://img.shields.io/badge/Vietnam-9cf):vietnam:
+![south_korea](https://img.shields.io/badge/SouthKorea-blue):kr:   ![thailand](https://img.shields.io/badge/Thailand-blue):thailand:   ![united_kingdom](https://img.shields.io/badge/UnitedKingdom-blue):uk:   ![usa](https://img.shields.io/badge/USA-blue):us:   ![vietnam](https://img.shields.io/badge/Vietnam-blue):vietnam:
 
 
 3. Languages i speak: :globe_with_meridians:
