@@ -1,8 +1,3 @@
-**Hey GitHub gang!** :sparkler:
-
-I'm a manager at Hilton with a passion for computer science.
-
-
 1. What i use: :floppy_disk:
 
 ![OS1](https://img.shields.io/badge/OS-Win10-blue)    ![OS2](https://img.shields.io/badge/OS-Ubuntu-blue)   ![lisp](https://img.shields.io/badge/Language-CLisp-blue)   ![c](https://img.shields.io/badge/Language-CSharp-blue)   ![Engine](https://img.shields.io/badge/Engine-GoDot-blue)
